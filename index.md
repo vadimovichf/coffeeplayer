@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Политика конфиденциальности
 
-You can use the [editor on GitHub](https://github.com/vadimovichf/musickontakt/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Приложение **Музыка из Контакта** не запрашивает и не хранит никакой личной информации.
+Также приложение имеет доступ к технической информации, такой как модель вашего устройства, версия операционной системы и так далее. Эта информация используется в обезличенном виде. Она нужна чтобы понять, как ведёт себя приложение на самых разных устройствах и как сделать его работу ещё лучше.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Приложение показывает рекламу сервиса Appodeal и всех связанных с ним рекламных сетей. Для ознакомления с политикой этого сервиса ознакомьтесь по этой ссылке: [appodeal.com/home/privacy-policy](https://appodeal.com/home/privacy-policy) 
 
-### Markdown
+В приложении **Музыка из Контакта** показывается реклама сети **Google AdMob**, для которой может предоставляться некоторая информация, в т.ч. ваше местоположение. Это необходимо для показа наиболее актуальной рекламы. Пожалуйста, ознакомьтесь с политикой конфиденциальности компании Google [по этой ссылке](https://policies.google.com/privacy). А также пройдите [по этой ссылке](https://policies.google.com/technologies/partner-sites?hl=ru) для ознакомления со способами обработки информации и персонализации рекламы данной компании.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Т.к. приложение использует API SoundCLoud (потоковое прослушивание аудиозаписей), рекомендуем ознакомиться и с политикой конфиденциальности этого сервиса: [https://pages.soundcloud.com/geo/uk_us_ie/legal/privacy-policy](https://pages.soundcloud.com/geo/uk_us_ie/legal/privacy-policy).
 
-```markdown
-Syntax highlighted code block
+Так как приложение предоставляет доступ к сервису ВКонтакте, то вам нужно также ознакомиться с политикой конфиденциальности этого сервиса [https://vk.com/privacy](https://vk.com/privacy).
 
-# Header 1
-## Header 2
-### Header 3
+Приложение не хранит логин и пароль доступа к сервису ВКонтакте. Хранится только временный токен доступа, действие которого можно прекратить в любой момент. Хотим отметить, что авторизация используется только лишь в качестве демонстрации. Приложение не получает доступ к аудио ВКонтакте.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vadimovichf/musickontakt/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Если у вас остались вопросы, свяжитесь со мной: rexvkplayer.app@gmail.com
