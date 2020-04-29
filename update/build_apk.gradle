@@ -1,5 +1,5 @@
 android { 
     defaultConfig {
-        versionName "R-2.0.1"
+        versionName "R-2.0.0"
     }
 }
